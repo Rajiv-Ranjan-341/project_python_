@@ -1,2 +1,2 @@
-# project_python_
-some basic project's of python
+# python_project
+Python based some basic project's
